@@ -33,8 +33,8 @@ Projects from OceanHackWeek 2023.
 <!-- - [Project pitch slide](https://docs.google.com/presentation/d/1eQKSdFHNGMDqGJMY4d-yGnNm4UrUj5kIS2mLQGPMZC8/edit#slide=id.g25fbb98e25a_14_0) -->
 
 ### 5. Benthic habitat mapping (image processing/seabed classification)
-
-- Project members: TO-BE-FILLED-IN!
+This project built on existing work by Siddhi Joshi on integrating sediment dynamics into habitat mapping approaches utilising national seabed mapping data from the Irish seabed mapping program INFOMAR. Existing workflow was heavily dependent on ArcGIS so the goal of this project was to tansfer the workflow to open source tools in QGIS/JuypterLab and making the data suitable for machine learning libraries in Python. 
+- Project members: Siddhi Joshi, Alson Athif with contributions from Minh Phan
 - GitHub repository: [https://github.com/oceanhackweek/ohw23-proj-habitatmapping](https://github.com/oceanhackweek/ohw23-proj-habitatmapping)
 - [Presentation recording](https://youtu.be/Lml4rROa91Q)
 <!-- - [Project pitch slide](https://docs.google.com/presentation/d/1eQKSdFHNGMDqGJMY4d-yGnNm4UrUj5kIS2mLQGPMZC8/edit#slide=id.g25fbb98e25a_42_0) -->
